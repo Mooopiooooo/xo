@@ -62,7 +62,7 @@ span {
 
 @media (max-width: 600px) {
     .game {
-        transform: scale(1);
+        transform: scale(1.4);
         /* Reset zoom for smaller screens */
     }
 }
